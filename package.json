@@ -1,0 +1,27 @@
+{
+  "name": "put-datafeed",
+  "version": "1.0.0",
+  "description": "A collection of data manipulation utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "castquantum-coder": "1.0.0",
+    "meta-magics-wear": "1.0.0",
+    "gain-quote": "1.0.0",
+    "fix-stellar-insight": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
